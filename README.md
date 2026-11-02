@@ -11,6 +11,14 @@ Instead of replacing traditional quest trackers or dungeon databases, PartyPilot
 The addon brings together dungeon information, quest progression, prerequisites, loot objectives, and shared interests in one interface.
 
 ---
+## Screenshots
+
+### PartyPilot Forever — Main Interface
+
+![PartyPilot Forever Interface](partypilot-accueil.png)
+
+*Preview of PartyPilot Forever's interface. Currently under development.*
+
 
 ## Features
 
