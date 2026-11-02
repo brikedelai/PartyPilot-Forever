@@ -15,7 +15,7 @@ The addon brings together dungeon information, quest progression, prerequisites,
 
 ### PartyPilot Forever — Main Interface
 
-![PartyPilot Forever Interface](partypilot-accueil.png)
+![PartyPilot Forever Interface](partypilot-accueil.PNG)
 
 *Preview of PartyPilot Forever's interface. Currently under development.*
 
